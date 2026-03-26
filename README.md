@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Salvador+Pereira+%F0%9F%91%8B;Platform+%26+DevOps+Engineer;Cloud+%7C+Azure+%7C+GitHub+Actions;Building+scalable+infra+%F0%9F%9A%80)](https://readme-typing-svg.demolab.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Salvador+%F0%9F%91%8B;Platform+%26+DevOps+Engineer;Automating+the+boring+stuff+%E2%9A%A1;Azure+%7C+Terraform+%7C+GitHub+Actions;Ship+fast.+Break+nothing.+%F0%9F%9A%80)](https://readme-typing-svg.demolab.com)
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=ZlDE0N&color=00d9ff&style=flat-square&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/ZlDE0N?color=00d9ff&style=flat-square&logo=github&label=Followers)
@@ -12,17 +12,27 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name:       Salvador Pereira
-alias:      ZlDE0N
-role:       Platform & DevOps Engineer
-company:    HyperNovaLabs
-location:   Panama 🇵🇦
-focus:
-  - Azure cloud infrastructure & migrations
-  - CI/CD pipelines · GitHub Actions
-  - Microservices · Containers · Terraform
-  - .NET · Node.js · Python · Go
-currently:  Migrating Azure DevOps → GitHub at scale
+❯ whoami
+
+  currently_building:
+    - Azure DevOps → GitHub migrations at scale
+    - Multi-environment CI/CD pipelines (dev → qa → prod)
+    - Container-based microservices on Azure
+
+  stack_i_trust:
+    cloud:    [ Azure, Terraform, Docker, Kubernetes ]
+    backend:  [ .NET / C#, Node.js, Go, Python ]
+    devops:   [ GitHub Actions, Azure Pipelines, ACR ]
+    data:     [ PostgreSQL, Redis, MongoDB ]
+
+  principles:
+    - Automate everything that can be automated
+    - Infrastructure as Code, always
+    - Fast feedback loops beat big-bang deployments
+
+  fun_fact: >
+    I've migrated 650+ repos from Azure DevOps to GitHub
+    and written the automation tool to do it in Go 🐹
 ```
 
 ---
@@ -92,10 +102,6 @@ currently:  Migrating Azure DevOps → GitHub at scale
 
 <div align="center">
 
-**"Automate everything, ship fast, sleep well."**
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
-&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+*"Automate everything, ship fast, sleep well."*
 
 </div>

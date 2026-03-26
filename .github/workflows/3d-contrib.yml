@@ -21,14 +21,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ZlDE0N
-          SETTING_JSON: |
-            {
-              "githubUserName": "ZlDE0N",
-              "paddingLeft": 0.1,
-              "paddingRight": 0.1,
-              "topLangType": "DONUT",
-              "type": "NORMAL"
-            }
 
       - name: Commit & push 3D calendar
         run: |
