@@ -1,95 +1,106 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=200&section=header&text=Salvador%20Pereira&fontSize=50&fontColor=58a6ff&fontAlignY=38&desc=Software%20Architect%20%7C%20Cloud%20%26%20DevOps%20Engineer&descAlignY=58&descColor=8b949e" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Salvador+Pereira+%F0%9F%91%8B;Platform+%26+DevOps+Engineer;Cloud+%7C+Azure+%7C+GitHub+Actions;Building+scalable+infra+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+[![Visitor Badge](https://komarev.com/ghpvc/?username=ZlDE0N&color=00d9ff&style=flat-square&label=Profile+Views)](https://github.com/ZlDE0N)
+[![GitHub followers](https://img.shields.io/github/followers/ZlDE0N?color=00d9ff&style=flat-square&logo=github&label=Followers)](https://github.com/ZlDE0N?tab=followers)
 
 </div>
 
 ---
 
-### 👋 About Me
+## 🧑‍💻 About Me
 
-I'm a **Software Architect & Cloud Engineer** at [HyperNovaLabs](https://github.com/hypernovalabs), focused on building scalable cloud infrastructure, automating CI/CD pipelines, and leading technical migrations at enterprise scale.
-
-- 🏗️ **Currently leading** — Azure DevOps → GitHub Actions migration (85+ repos across 10+ product teams)
-- ☁️ **Cloud expertise** — Azure Functions, Container Apps, App Services, Azure Container Registry, Terraform IaC
-- 🔁 **DevOps** — GitHub Actions multi-stage pipelines with approval gates, branch strategies, team governance
-- 🧩 **Platform** — GitHub Org management (650+ repos, 36 teams, CI/CD automation at scale)
-- 🤖 **AI/Automation** — MCP servers, AI agents, process automation tooling
-- 📍 Based in **Panama**
+```yaml
+name:       Salvador Pereira
+alias:      ZlDE0N
+role:       Platform & DevOps Engineer
+company:    HyperNovaLabs
+location:   Panama 🇵🇦
+focus:
+  - Azure cloud infrastructure & migrations
+  - CI/CD pipelines · GitHub Actions
+  - Microservices · Containers · Terraform
+  - .NET · Node.js · Python · Go
+currently:  Migrating Azure DevOps → GitHub at scale
+```
 
 ---
 
-### 🛠️ Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
-**Languages**
+### ☁️ Cloud & DevOps
+[![My Skills](https://skillicons.dev/icons?i=azure,github,githubactions,terraform,docker,kubernetes&theme=dark)](https://skillicons.dev)
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 💻 Languages & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,nodejs,ts,js,python,go&theme=dark)](https://skillicons.dev)
 
-**Cloud & Infrastructure**
-
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-
-**Frameworks & Tools**
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🛠️ Tools & Platforms
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,vscode,postgres,redis&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZlDE0N&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZlDE0N&layout=compact&theme=github_dark&border_color=30363d&title_color=58a6ff&text_color=8b949e&bg_color=0d1117"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ZlDE0N&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&count_private=true&cache_seconds=86400" height="165" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZlDE0N&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&cache_seconds=86400&langs_count=8" height="165" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ZlDE0N&theme=github-dark-blue&border=30363d&ring=58a6ff&fire=ff7b00&currStreakLabel=58a6ff)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ZlDE0N&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-### 🚀 Featured Work
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **AludraSaaS Migration** | Azure DevOps → GitHub Actions — 85+ repos, 8 workflow templates, multi-env CI/CD | Go, GitHub API, YAML |
-| **GitHub Org Governance** | 650+ repos organized across 36 teams with automated permissions | GitHub API, Python |
-| **Azure IaC Platform** | Terraform infrastructure for Container Apps, AKS, ACR, networking | Terraform, Azure |
-| **CI/CD Framework** | Multi-stage pipelines with 3-gate approval chains (Scrum → Tech Lead → Support) | GitHub Actions |
-
----
-
-### 📫 Connect
+## 📈 Activity Graph
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salvador-pereira)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZlDE0N)
-[![HyperNovaLabs](https://img.shields.io/badge/HyperNovaLabs-FF6B35?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/hypernovalabs)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZlDE0N&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
+---
+
+## 🐍 Contribution Snake
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZlDE0N/ZlDE0N/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZlDE0N/ZlDE0N/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ZlDE0N/ZlDE0N/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🏆 Highlights
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ZlDE0N&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+**"Automate everything, ship fast, sleep well."**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ZlDE0N)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/ZlDE0N)
+
 </div>
