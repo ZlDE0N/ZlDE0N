@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Salvador+%F0%9F%91%8B;Platform+%26+DevOps+Engineer;Automating+the+boring+stuff+%E2%9A%A1;Azure+%7C+Terraform+%7C+GitHub+Actions;Ship+fast.+Break+nothing.+%F0%9F%9A%80)](https://readme-typing-svg.demolab.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Salvador+%F0%9F%91%8B;Platform+%26+DevOps+Engineer;Automating+the+boring+stuff+%E2%9A%A1;Azure+%7C+Terraform+%7C+GitHub+Actions;Ship+fast.+Break+nothing.+%F0%9F%9A%80)](https://readme-typing-svg.demolab.com)
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=ZlDE0N&color=00d9ff&style=flat-square&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/ZlDE0N?color=00d9ff&style=flat-square&logo=github&label=Followers)
@@ -54,29 +54,28 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Impact at a Glance
 
 <div align="center">
 
-<img src="assets/metrics-stats.svg" alt="GitHub Stats" width="495"/>
-&nbsp;&nbsp;
-<img src="assets/metrics-languages.svg" alt="Top Languages" width="495"/>
+![Repos Migrated](https://img.shields.io/badge/Repos%20Migrated-650%2B-00d9ff?style=for-the-badge&logo=github&logoColor=white)
+![Workflows Deployed](https://img.shields.io/badge/CI%2FCD%20Pipelines-68-blueviolet?style=for-the-badge&logo=githubactions&logoColor=white)
+![Cloud Platform](https://img.shields.io/badge/Cloud-Azure-0078d4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![IaC](https://img.shields.io/badge/IaC-Terraform-7b42bc?style=for-the-badge&logo=terraform&logoColor=white)
 
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ZlDE0N&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff)
+![DevOps](https://img.shields.io/badge/Focus-DevOps%20%26%20Platform%20Engineering-00d9ff?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Architecture-Microservices-ff6b6b?style=for-the-badge&logo=docker&logoColor=white)
+![Scale](https://img.shields.io/badge/Scale-Enterprise-gold?style=for-the-badge&logo=microsoft&logoColor=black)
 
 </div>
 
 ---
 
-## 🗓 Isometric Contribution Calendar
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="assets/metrics-isocalendar.svg" alt="Isometric Contributions" width="900"/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=ZlDE0N&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=00d9ff&sideNums=ffffff&dates=888888)
 
 </div>
 
