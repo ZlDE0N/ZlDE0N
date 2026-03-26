@@ -58,9 +58,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ZlDE0N&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&count_private=true&cache_seconds=86400" height="165" alt="GitHub Stats"/>
+<img src="assets/metrics-stats.svg" alt="GitHub Stats" width="495"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZlDE0N&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&cache_seconds=86400&langs_count=8" height="165" alt="Top Languages"/>
+<img src="assets/metrics-languages.svg" alt="Top Languages" width="495"/>
 
 </div>
 
@@ -72,15 +72,11 @@
 
 ---
 
-## 🌐 3D Contribution Calendar
+## 🗓 Isometric Contribution Calendar
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-south-season-animate.svg" />
-  <img alt="3D Contribution Calendar" src="profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
+<img src="assets/metrics-isocalendar.svg" alt="Isometric Contributions" width="900"/>
 
 </div>
 
