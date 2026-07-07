@@ -71,30 +71,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ZlDE0N&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=00d9ff&sideNums=ffffff&dates=888888)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZlDE0N/ZlDE0N/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZlDE0N/ZlDE0N/output/github-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ZlDE0N/ZlDE0N/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
 <div align="center">
 
 *"Automate everything, ship fast, sleep well."*
